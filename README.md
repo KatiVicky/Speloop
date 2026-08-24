@@ -27,7 +27,7 @@ Speloopはマス目で区切られたお互いの陣地から魔法を撃ち合�
 
 【作品リンク】  
 以下のGoogleDriveからダウンロードして遊べるほか、紹介動画などを閲覧できます。  
-https://drive.google.com/drive/folders/1WIXPRW--9uDmOnEnoelgsdC6BlWRcFJb?usp=drive_link  
+https://drive.google.com/drive/folders/1WIXPRW--9uDmOnEnoelgsdC6BlWRcFJb?usp=drive_link
   
 【製作期間】  
 2025年12月～2026年2月（約2か月）  
