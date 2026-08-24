@@ -26,7 +26,7 @@ Speloopはマス目で区切られたお互いの陣地から魔法を撃ち合�
 本来は機能ごとにクラスを分割することで、拡張性・保守性・可読性をさらに高められます。  
 
 【作品リンク】  
-以下のGoogleDriveからダウンロードして遊べるほか、紹介動画などを閲覧できます。  
+以下のGoogleDriveからダウンロードして遊べるほか、紹介動画・企画書などを閲覧できます。  
 https://drive.google.com/drive/folders/1WIXPRW--9uDmOnEnoelgsdC6BlWRcFJb?usp=drive_link
   
 【製作期間】  
